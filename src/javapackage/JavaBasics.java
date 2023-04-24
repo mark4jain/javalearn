@@ -22,7 +22,7 @@ public class JavaBasics {
 	System.out.println('b' - 'a');
 	System.out.println("Hello" + 'k');
 
-	System.out.println("Hello" + 12.33 +30 +12.33 + 'a' + 'b');
+	System.out.println("Helllo" + 12.33 +30 +12.33 + 'a' + 'b');
 	System.out.println("------");
 	char c1 = 'a';
 	int c2 = 'b';
